@@ -18,6 +18,7 @@
 
 [晚清沧海事 第二版 下卷 A](./second_edition_2-1.md)  
 [晚清沧海事 第二版 下卷 B](./second_edition_2-2.md)  
+[晚清沧海事 第二版 下卷 C](./second_edition_2-3.md)  
 
 [归因论](./guiyinlun.md)  
 
